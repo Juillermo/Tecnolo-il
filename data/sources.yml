@@ -1,37 +1,38 @@
-english:
+tzeltal:
   users:
-    - CNN
-    - bbcnews
-    - VOAvideo
+    -
   playlists:
     -
-german:
+  videos:
+    - https://www.youtube.com/watch?v=BDI2AgZeyyI
+chol:
   users:
-    - deutschewelle
-    - euronewsde
-    - N24de
+    -
   playlists:
     -
-french:
+  videos:
+    - https://www.youtube.com/watch?v=zthpxg5tOYg
+    - https://www.youtube.com/watch?v=wJap6KfwzWc
+zoque:
   users:
-    - france24
+    -
   playlists:
     -
-spanish:
+  videos:
+    - https://www.youtube.com/watch?v=GrCKXhbe_rY
+    - https://www.youtube.com/watch?v=7tqi7O-6oZc
+tsotsil:
   users:
-    - antena3noticias
-    - rtve
+    -
   playlists:
     -
-chinese:
-  users:
-    - VOAchina
-  playlists:
-    -
-russian:
-  users:
-    - Russia24TV
-    - rtrussian
-  playlists:
-    -
-
+  videos:
+    - https://www.youtube.com/watch?v=8VX5SwWO8LI
+# spanish:
+#   users:
+#     - antena3noticias
+#     - rtve
+#  playlists:
+#    -
+#  videos:
+#    -

@@ -8,12 +8,8 @@ import itertools
 from random import shuffle
 
 LABELS = {
-    "english": 0,
-    "german": 1,
-    "french": 2,
-    "spanish": 3,
-    "chinese": 4,
-    "russian": 5,
+    "spanish": 0,
+    "tzeltal": 1,
 }
 
 
